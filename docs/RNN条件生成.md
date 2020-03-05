@@ -4,7 +4,7 @@
 
 ### V1: Encoder-Decoder
 
-![image-20200229180824157](https://github.com/casuallyName/Deep_Learning_PyTorch/blob/master/docs/image\image-20200229180824157.png)
+![image-20200229180824157](https://github.com/casuallyName/Deep_Learning_PyTorch/blob/master/docs/image/image-20200229180824157.png)
 
 两个RNN，先编码，再解码预测
 
